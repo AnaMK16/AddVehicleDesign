@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="add_a_vehicle">Add a Vehicle</string>
+    <string name="add">add</string>
+</resources>
